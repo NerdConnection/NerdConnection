@@ -12,7 +12,7 @@
 ### Raspberry Pi 5 Computer-Vision-Suite
 Developed a comprehensive suite for comparing and analyzing various computer vision models using Raspberry Pi 5. Implemented effective collaboration tools such as PR reviews, commit message conventions, and branch management to streamline development.
 
-- [Project Repository](https://github.com/NerdConnection/computer-vision-suite)
+- [Project Repository](https://github.com/NerdConnection/Raspberry-Pi-5-Computer-Vision)
 - Key Technologies: Python, OpenCV, GitHub Actions
 
 ## 📈 GitHub Stats
