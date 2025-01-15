@@ -3,9 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NerdConnection&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/NerdConnection?label=Follow&style=social)](https://github.com/NerdConnection)
 
-## 📝 Portfolio
-
-- [Portfolio](https://lateral-anorak-e68.notion.site/JuniorBackendDeveloper-7bc74be37a0e48c79ea1993f6f9ca3f6)
 
 ## 🔭 Projects
 
